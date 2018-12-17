@@ -1,1 +1,1 @@
-function 
+function happyHolidays(){return }
